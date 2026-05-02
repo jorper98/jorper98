@@ -8,7 +8,7 @@ I am a technology consultant and strategist with an extensive background in digi
 ### 🛠️ The Tech & The Craft
 My practice is rooted in building—whether through **Node.js, Python, or PHP**. I’ve found that **partnering with AI for development** has been an absolute game changer, fundamentally evolving how I orchestrate and ship code.
 
-* **Current Focus:** Local automation stacks & hybrid AI implementations.
+* **Current Focus:** Local AI, automation stacks & hybrid AI implementations.
 * **Philosophy:** Building at the intersection of strategy and execution.
 * **Fuel:** Powered by a fresh cup of coffee ☕ and the thrill of a new project.
 
